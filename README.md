@@ -1,4 +1,4 @@
-# Pacman-Flatpak-Update-Notifier
+# Pacman-Flatpak-Auto-Notifier
 Linux Update Checker
 A lightweight Bash script that checks for available system updates on Linux and displays desktop notifications.
 Features
